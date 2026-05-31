@@ -1,0 +1,24 @@
+
+The final is coming up next session on June 6 and I want to make sure you're well prepared.  Please review the class materials and homework assignments for the lessons we've covered and Noah's materials earlier in the course related to Data Centers, Loops, and Robots.
+
+Class Materials to Review:
+
+Day 13: https://hue881.github.io/13
+Day 14: https://hue881.github.io/14
+Day 15:
+        Morning class: https://hue881.github.io/15/1
+                       https://hue881.github.io/15/1/activity
+        Afternoon class: https://hue881.github.io/15/3
+                         https://hue881.github.io/15/3/activity
+Day 16:
+        Morning class: https://hue881.github.io/16/1
+                       https://hue881.github.io/16/1/activity
+        Afternoon class: https://hue881.github.io/16/3
+                         https://hue881.github.io/16/3/activity
+Day 17: https://hue881.github.io/17
+        https://hue881.github.io/17/activity
+Day 18: https://hue881.github.io
+
+Handouts and Code for Day 13 - Day 18 can be found at: https://github.com/hue881
+
+Take your time going through everything and don't hesitate to reach out if anything is unclear before then -- good luck!

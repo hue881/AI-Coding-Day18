@@ -21,4 +21,6 @@ Day 18: https://hue881.github.io
 
 Handouts and Code for Day 13 - Day 18 can be found at: https://github.com/hue881
 
+The final will consist of 10 multiple choice questions and a coding project -- you will have an hour to build a either a Chatbot, a Neural Network, Recommendation System, or Edge Detector.  You can use the class materials for the coding project.
+
 Take your time going through everything and don't hesitate to reach out if anything is unclear before then -- good luck!
